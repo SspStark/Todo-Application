@@ -238,7 +238,7 @@ Deletes a todo from the todo table based on the todo ID
 
 ```
 Todo Deleted
-```
+``
 
 <br/>
 
